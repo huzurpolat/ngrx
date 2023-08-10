@@ -21,7 +21,7 @@ import { AngularFireDatabaseModule } from '@angular/fire/compat/database';
 import { AngularFirestoreModule } from '@angular/fire/compat/firestore';
 import { AngularFireStorageModule } from '@angular/fire/compat/storage';
 //  enviroment
-import { environment } from './environments/environments.ts';
+import { environment } from './environments/environments';
 
 @NgModule({
   imports: [
